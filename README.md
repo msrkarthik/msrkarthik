@@ -1,10 +1,1 @@
-- 👋 Hi, I’m M S R Karthik.
-- 👀 I’m interested in Data Science, Full stack development, Risk analysis. Formerly I was a Risk Management Specialist at Amazon.com Inc.
-- 🌱 I’m a Computer Science engineer and complted Master of Science in Financial Technology at University of Aberdeen.
-- 💞️ I’m looking to collaborate on technologies in Machine learning, Full stack, Business Intelligence and Fraud analytics.
-- 📫 How to reach me - Email: msrkarthik1998@gmail.com
-
-<!---
-msrkarthik/msrkarthik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced Financial Technology professional with a Master's in Financial Technology and a Distinction in Computer Science. Proven track record in fraud analysis and risk mitigation, successfully identifying and thwarting over $30 million in laundered funds by identifying two distinct fraud rings. Also Identified many money mule, layered and sumrfing fraud patterns and presented detailed risk reports to the platforms. Expertise in data analytics, advanced proficiency in Python, and extensive experience in developing fraud detection systems. Accomplished in collaborating with cross-functional teams, implementing reporting systems, and driving process improvements. Seeking a challenging role in data analysis, fraud detection, Fraud Management, Risk Analysis and money laundering prevention to apply analytical skills and contribute to risk management strategies.
